@@ -12,7 +12,8 @@ CREATE TABLE Employee (
  emp_salary float DEFAULT NULL,
  emp_age integer DEFAULT NULL,
  emp_city VARCHAR(50) DEFAULT NULL,
- PRIMARY KEY (empid));
+ PRIMARY KEY (empid)
+ );
  
  
  USE EmployeeDB ;
